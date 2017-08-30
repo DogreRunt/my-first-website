@@ -1,0 +1,18 @@
+body {
+}
+
+h1 {
+    font-family: 'Alfa Slab One', cursive;
+    color: #4c831e
+}
+
+p {
+    word-spacing: 7px;
+    line-height: 25%;
+    font-family: 'Coda', cursive;
+    color: #4c831e
+}
+
+img {
+    max-width: 100%
+}
